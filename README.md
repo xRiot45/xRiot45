@@ -9,7 +9,5 @@
 
 - 💬 Ask me about **JavaScript and TypeScript**
 
-- 📫 How to reach me **thomasalberto456@gmail.com**
-
 - ⚡ Fun fact **Cool**
 
