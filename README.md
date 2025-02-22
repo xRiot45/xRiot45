@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thomas Alberto</h1>
-<h3 align="center">A passionate frontend developer and backend developer from Indonesia</h3>
+<h3 align="center">Programmer from Indonesia</h3>
 
 - 🔭 I’m currently working on [express-cli](https://github.com/xRiot45/express-cli)
 
