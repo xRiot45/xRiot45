@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [express-cli](https://github.com/xRiot45/express-cli)
 
-- 🌱 I’m currently learning **Spring Boot**
-
 - 👨‍💻 All of my projects are available at [https://thomasalberto.vercel.app/](https://thomasalberto.vercel.app/)
 
 - 💬 Ask me about **JavaScript and TypeScript**
