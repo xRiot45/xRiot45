@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://c4.wallpaperflare.com/wallpaper/851/501/292/programming-code-minimalism-wallpaper-preview.jpg" alt="Banner" />
+  <img src="https://c4.wallpaperflare.com/wallpaper/967/89/86/minimalism-code-quote-text-wallpaper-preview.jpg" alt="Banner" />
 </p>
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/xRiot45" target="_blank">Thomas Alberto</a> 👋</h1>
