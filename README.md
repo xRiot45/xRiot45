@@ -22,7 +22,7 @@
 
 - 🔭 Currently working on: **Web-based Multi Vendor Food Ordering Information System & Restaurant Microservices**
 - 🎓 Final year Diploma 3 student, focusing on **Backend Development & System Design**
-- 🧠 Learning Microservices Architecture with **NestJS** and **MySQL**
+- 🧠 Learning Microservices Architecture with **NestJS Framework**
 - 💡 Passionate about building solutions that solve real-world problems
 - 📌 Based in: **Pontianak City, West Borneo, Indonesia**
 
