@@ -24,7 +24,7 @@
 - 🎓 Final year Diploma 3 student, focusing on **Backend & Frontend Development & System Design**
 - 🧠 Learning Microservices Architecture with **NestJS Framework**
 - 💡 Passionate about building solutions that solve real-world problems
-- 📌 Based in: **Pontianak City, West Borneo, Indonesia**
+- 📌 Based in: **Pontianak, West Borneo, Indonesia**
 
 ---
 
