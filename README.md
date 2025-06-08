@@ -70,7 +70,7 @@
 - 🔧 [**Express JS CLI**](https://github.com/xRiot45/express-js-cli)  
   A simple CLI tool to scaffold folder and file structures for Express.js projects. Designed to speed up backend development with a consistent and clean structure.
 
-- 🍽️ [**Rm Domor**](https://github.com/xRiot45/rm-domoro)  
+- 🍽️ [**Rm Domoro**](https://github.com/xRiot45/rm-domoro)  
   A web-based restaurant information system with multi-role access (cashier, chef, courier, and customer). Features include self-ordering, Midtrans payment integration, and daily financial reports.
 
 - 💸 [**Dompet Ummat**](https://github.com/xRiot45/dompet-ummat)  
