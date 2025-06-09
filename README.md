@@ -20,8 +20,8 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently working on the project: **Web-based Multi Merchant Food Ordering Platform & Restaurant Microservices**
-- 🎓 Final year Diploma 3 student, focusing on **Backend & Frontend Development & System Design**
+- 🔭 Currently working on the project: **Web-based Multi Merchant Food Ordering Platform & Elysia CLI**
+- 🎓 Final year Diploma 3 student, focusing on **Backend, Frontend, Web3 Development & System Design**
 - 🧠 Learning Microservices Architecture with **NestJS Framework**
 - 💡 Passionate about building solutions that solve real-world problems
 - 📌 Based in: **Pontianak City, West Borneo, Indonesia**
