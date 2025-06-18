@@ -5,6 +5,10 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/xRiot45" target="_blank">Thomas Alberto</a> 👋</h1>
 
 <p align="center">
+  🌍 Software Engineer | ⚡ Linux Enthusiast | 🚀 Always Learning
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/thomasalberto/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="https://thomasalberto.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.instagram.com/thomasalberto___/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
