@@ -14,7 +14,7 @@
 - 💻 Full Stack Web Developer | Cyber Security Enthusiast  
 - 🌐 Building scalable apps with **Next.js, Laravel, NestJS, Node.js**  
 - 🛡️ Interested in **Ethical Hacking, Pentesting, and CTF Challenges**  
-- 🎯 Goal: Master **Web Development + Offensive Security**  
+- 🎯 Goal: Master **Software Engineer + Offensive Security**  
 - ⚡ Motto: `Code. Hack. Learn. Repeat.`
 
 ---
