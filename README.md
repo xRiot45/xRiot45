@@ -1,4 +1,4 @@
-<!-- Animated Header  -->
+<!-- Animated Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=650&lines=Hello+World!+%F0%9F%91%8B;Full+Stack+Developer+%26+Ethical+Hacker;Cyber+Security+%7C+Software+Engineer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
