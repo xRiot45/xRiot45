@@ -90,12 +90,6 @@
 
 ---
 
-### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- Coming soon...
-<!-- BLOG-POST-LIST:END -->
-
----
 
 ### 🤝 Let's Connect!
 Feel free to contact me if you'd like to collaborate on a project, get help, or just say hello!
