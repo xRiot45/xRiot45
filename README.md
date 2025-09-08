@@ -102,25 +102,10 @@
 
 ---
 
-## 🎯 2025 Goals
-- 🚀 Launch my first SaaS product (POS System)  
-- 🧩 Deep dive into **Microservices Architecture**  
-- 🔒 Participate in more **CTF & Bug Bounty programs**  
-- 📚 Share more **tech content & tutorials**  
-- 🌐 Contribute to **open source projects**  
-
----
-
 ## 🛠️ Currently Learning
 - **Microservices with NestJS**  
 - **Angular Framework**  
 - **Pentesting & Bug Bounty**  
-
----
-
-## 📚 Blog & Articles
-*(Coming soon – stay tuned!)*  
-✍️ Planning to share knowledge on **Web Development, Cybersecurity, and Tech Journeys**  
 
 ---
 
