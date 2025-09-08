@@ -15,16 +15,19 @@
   <a href="https://web.facebook.com/thomasalberto45/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=xRiot45&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 💻 Full Stack Web Developer | Cyber Security Enthusiast
+- 💻 Full Stack Web Developer | Cyber Security Enthusiast  
 - 🌐 Building scalable apps with **Next.js, React js, Laravel, NestJS, Node.js**  
 - 🛡️ Interested in **Ethical Hacking, Pentesting, and CTF Challenges**  
 - 🎯 Goal: Master **Software Engineer + Offensive Security**  
-- ⚡ Motto: `Code. Hack. Learn. Repeat.`
+- ⚡ Motto: `Code. Hack. Learn. Repeat.`  
 
 ---
 
@@ -48,8 +51,10 @@
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
-
 
 ---
 
@@ -69,30 +74,39 @@
 
 ### 📌 Highlighted Projects
 
-- 🔧 [**Express JS CLI**](https://github.com/xRiot45/express-js-cli)  
-  A simple CLI tool to scaffold folder and file structures for Express.js projects. Designed to speed up backend development with a consistent and clean structure.
+<p align="center">
+  <a href="https://github.com/xRiot45/express-js-cli">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xRiot45&repo=express-js-cli&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/xRiot45/rm-domoro">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xRiot45&repo=rm-domoro&theme=tokyonight" />
+  </a>
+</p>
 
-- 🍽️ [**Rm Domoro**](https://github.com/xRiot45/rm-domoro)  
-  A web-based restaurant information system with multi-role access (cashier, chef, courier, and customer). Features include self-ordering, Midtrans payment integration, and daily financial reports.
-
-- 💸 [**Dompet Ummat**](https://github.com/xRiot45/dompet-ummat)  
-  A financial management web app for tracking income and expenses. Aimed at social organizations to help manage their finances with more transparency and clarity.
-
-- 📱 [**Kasirku Mobile**](https://github.com/xRiot45/kasirku_mobile)  
-  A mobile cashier application built with Flutter, supporting sales transactions, product management, and offline capabilities for small and medium businesses.
-
-- ⚙️ [**Kasirku API**](https://github.com/xRiot45/kasirku_api)  
-  A RESTful backend API for the cashier system using Node.js and Express. Features include authentication, product management, transactions, and financial reporting.
-
-- 💻 [**Kasirku Web**](https://github.com/xRiot45/kasirku_web)  
-  A web interface for the cashier system that helps staff manage sales, inventory, product data, and view transaction reports with ease.
-
+<p align="center">
+  <a href="https://github.com/xRiot45/dompet-ummat">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xRiot45&repo=dompet-ummat&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/xRiot45/kasirku_api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xRiot45&repo=kasirku_api&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
+### 🛠️ Currently Learning
+- **Microservices with NestJS**  
+- **Angular framework**
+- **Pentesting & Bug Bounty**  
+
+---
 
 ### 🤝 Let's Connect!
-Feel free to contact me if you'd like to collaborate on a project, get help, or just say hello!
+Feel free to contact me if you'd like to collaborate on a project, get help, or just say hello!  
+
+<p align="center">
+  <a href="https://buymeacoffee.com/thomasalberto"><img src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
+</p>
 
 ---
 
