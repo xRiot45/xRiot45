@@ -78,17 +78,8 @@
   <a href="https://github.com/xRiot45/express-js-cli">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xRiot45&repo=express-js-cli&theme=tokyonight" />
   </a>
-  <a href="https://github.com/xRiot45/rm-domoro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xRiot45&repo=rm-domoro&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/xRiot45/dompet-ummat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xRiot45&repo=dompet-ummat&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/xRiot45/kasirku_api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xRiot45&repo=kasirku_api&theme=tokyonight" />
+  <a href="https://github.com/xRiot45/elysia-js-cli">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xRiot45&repo=elysia-js-cli&theme=tokyonight" />
   </a>
 </p>
 
