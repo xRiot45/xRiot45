@@ -21,17 +21,16 @@
 
 ---
 
-### 🧑‍💻 About Me
-
+## 🧑‍💻 About Me
 - 💻 Full Stack Web Developer | Cyber Security Enthusiast  
-- 🌐 Building scalable apps with **Next.js, React js, Laravel, NestJS, Node.js**  
+- 🌐 Building scalable apps with **Next.js, React, Laravel, NestJS, Node.js**  
 - 🛡️ Interested in **Ethical Hacking, Pentesting, and CTF Challenges**  
-- 🎯 Goal: Master **Software Engineer + Offensive Security**  
+- 🎯 Goal: Master **Software Engineering + Offensive Security**  
 - ⚡ Motto: `Code. Hack. Learn. Repeat.`  
 
 ---
 
-### 🚀 Tech Stack
+## 🚀 Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Debian-12A337?style=for-the-badge&logo=debian&logoColor=white" />
@@ -58,7 +57,16 @@
 
 ---
 
-### 📈 GitHub Stats
+## ⚙️ Tools & Workflow
+- 🛠️ Git & GitHub for version control  
+- 🧪 Postman for API testing  
+- 🐳 Docker for containerization  
+- ☁️ Vercel & Netlify for deployment  
+- 🔄 GitHub Actions for CI/CD  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xRiot45&show_icons=true&theme=tokyonight" width="48%" />
@@ -70,9 +78,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=xRiot45&theme=tokyonight&row=1&column=6" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xRiot45&theme=tokyo-night" width="100%"/>
+</p>
+
 ---
 
-### 📌 Highlighted Projects
+## 📌 Highlighted Projects
 
 <p align="center">
   <a href="https://github.com/xRiot45/express-js-cli">
@@ -85,20 +97,24 @@
 
 ---
 
-### 🛠️ Currently Learning
+## 🛠️ Currently Learning
 - **Microservices with NestJS**  
-- **Angular framework**
+- **Angular Framework** 
 - **Pentesting & Bug Bounty**  
 
 ---
 
-### 🤝 Let's Connect!
-Feel free to contact me if you'd like to collaborate on a project, get help, or just say hello!  
-
-<p align="center">
-  <a href="https://buymeacoffee.com/thomasalberto"><img src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
-</p>
+## 🎮 Fun Facts
+- 🎧 I love listening to **Lo-fi beats** while coding  
+- 🕹️ Gamer by night, Developer by day  
+- 🌱 Always exploring **new frameworks & cybersecurity tools**  
+- 💡 Favourite Quote: *"Strive for progress, not perfection."*  
 
 ---
 
-> _“Strive for progress, not perfection.”_
+## 🤝 Let's Connect!
+Feel free to contact me if you'd like to collaborate on a project, get help, or just say hello!  
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/thomasalberto"><img src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
+</p>
