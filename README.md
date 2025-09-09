@@ -126,7 +126,7 @@
 
 ## 📈 Coding Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@xRiot45&theme=tokyonight&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=xRiot45&theme=tokyonight&layout=compact" />
 </p>
 
 ---
