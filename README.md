@@ -129,9 +129,6 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=xRiot45&theme=tokyonight&layout=compact" />
 </p>
 
-<figure><embed src="https://wakatime.com/share/@xRiot45/2a97ed62-d581-45cc-87e7-da9210706d40.svg"></embed></figure>
-
-
 ---
 
 ## 🎮 Fun Facts
