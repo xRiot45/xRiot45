@@ -125,9 +125,15 @@
 
 ---
 
-## 📈 Coding Activity
+## 📊 Coding Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=xRiot45&theme=tokyonight&layout=compact" />
+  <!-- WakaTime Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=xRiot45&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <!-- WakaTime Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=xRiot45&layout=compact&theme=tokyonight" />
 </p>
 
 ---
