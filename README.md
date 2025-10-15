@@ -5,7 +5,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/xRiot45" target="_blank">Thomas Alberto</a> 👋</h1>
 
 <p align="center">
-  🌍 Full Stack Web Developer | ⚡ CyberSecurity Enthusiast | 🚀 Always Learning 
+  🌍 Full Stack Web Developer | ⚡ CyberSecurity Enthusiast | 🚀 Always Learning  
 </p>
 
 <p align="center">
