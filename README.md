@@ -22,7 +22,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- 💻 Software Developer
+- 💻 IT Support & Software Developer
 - 🌐 Building scalable apps with **Next.js, React, Laravel, NestJS, Node.js**  
 - 🎯 Goal: Master **Software Engineer**
 - ⚡ Motto: `Code. Learn.`  
